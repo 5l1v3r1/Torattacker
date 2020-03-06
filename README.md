@@ -29,7 +29,7 @@ NB          : Manusia gax ada yang sempurna
 #### Cara Menginstall:
 ```
 git clone https://github.com/stepbystepexe/Torattacker
-cd Tor
+cd Torattacker
 ls
 bash torattacker.sh
 ````
