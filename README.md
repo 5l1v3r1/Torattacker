@@ -23,7 +23,7 @@ NB          : Manusia gax ada yang sempurna
 [ Gunakan tool ini dengan bijak ]
 ```
 #### Fitur:
-+ The Onion Router
++ tor.project
 #### Cara Menginstall:
 ```
 git clone https://github.com/stepbystepexe/Torattacker
