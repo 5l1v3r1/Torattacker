@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Logo.png" width="200"/>
-</a></p>
-<h1 align="center">Torattacker</h1>
-
+# Torattacker:
+**```Tor```** adalah server yang membuat pengguna menjadi anonim dalam internet.
+**```Attack```** adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.
+#### Screenshot:
+![](./Skrinsut.png)
 #### Informasi:
 ```
 Nama        : Torattacker
@@ -22,10 +22,8 @@ NB          : Manusia gax ada yang sempurna
 
 [ Gunakan tool ini dengan bijak ]
 ```
-
-#### Daftar Fitur:
-+ TOR
-
+#### Fitur:
++ The Onion Router
 #### Cara Menginstall:
 ```
 git clone https://github.com/stepbystepexe/Torattacker
@@ -33,12 +31,11 @@ cd Torattacker
 ls
 bash torattacker.sh
 ````
-#### Screenshot:
-<p align="center">
-  <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png">
-</a></p>
-
+#### Kontak:
++ Email d_q16x@outlook.co.id
++ WhatsApp https://tinyurl.com/wel4alo
 #### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
++ Onclick https://bit.ly/3dcEQcN
 #### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+>**Created by Nedi Senja**
