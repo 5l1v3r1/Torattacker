@@ -30,7 +30,7 @@ git clone https://github.com/stepbystepexe/Torattacker
 cd Torattacker
 ls
 bash torattacker.sh
-````
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp https://tinyurl.com/wel4alo
