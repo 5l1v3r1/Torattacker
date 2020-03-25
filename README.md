@@ -27,6 +27,8 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
   <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
   </a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2stepbystepexe%2FTorattacker" alt="Twitter"> <br>
 </p>
 
