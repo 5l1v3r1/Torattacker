@@ -47,7 +47,7 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 ### Informasi:
 ```text
 Nama        : Torattacker
-Versi       : 4.5 (Update: 23 Februari 2020, 9:30 AM)
+Versi       : 1.0 (Update: 23 Februari 2020, 9:30 AM)
 Tanggal     : 12 Agustus 2019
 Author      : Nedi Senja
 Tujuan      : Ddos nenggunakan jaringan TOR
@@ -65,7 +65,7 @@ NB          : Manusia gax ada yang sempurna
 ```
 
 ### Fitur:
-+ tor.roject
++ theonionrouter.roject
 
 ### Installisasi:
 ```text
