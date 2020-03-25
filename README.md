@@ -14,9 +14,9 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 <p align="center">
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
- <h4 align="center">Tampilan</h4> <br>
- <p align="center">
-![Screenshot](https://raw.githubusercontent.com/stepbystepexe/Torattacker/master/content/Skrinsut.png)
- <h4 align="center">( Thanks! )</h4>
+<h4 align="center">SocialFish</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stepbystepexe/Torattacker/master/content/Skrinsut.png" width="200"/>
+</a></p>
 
 <p align="center"><a href="https://kawalcorona.com" target="_blank">Coronavirus COVID-19 Live Data</a></p>
