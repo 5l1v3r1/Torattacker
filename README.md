@@ -38,13 +38,38 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
-<h4 align="center">Instalisasi</h4>
+#### Informasi:
+```
+Nama        : Torattacker
+Versi       : 4.5 (Update: 23 Februari 2020, 9:30 AM)
+Tanggal     : 12 Agustus 2019
+Author      : Nedi Senja
+Tujuan      : Ddos nenggunakan jaringan TOR
+              atau jaringan bawang
+Terimakasih : Allah SWT.
+              FR13NDS, & seluruh
+              manusia seplanet bumi
+NB          : Manusia gax ada yang sempurna
+              sama kaya tool ini.
+              Silahkan laporkan kritik atau saran
+              Ke - Email: d_q16x@outlook.co.id
+                 - WhatsApp: https://tinyurl.com/wel4alo
 
-+ Install via git
-```text
-git clone https://github.com/stepbystepexe/Stepbystep
+[ Gunakan tool ini dengan bijak ]
 ```
-+ Install via wget
-```text
-wget -o https://github.com/stepbystepexe/Stepbystep
+#### Cara Menginstall:
 ```
+git clone https://github.com/stepbystepexe/Torattacker
+cd Torattacker
+ls
+bash torattacker.sh
+```
+#### Kontak:
+
+<h4 align="center">
+<a href="d_q16x@outlook.co.id">Email</a>
+</h4>
+
+<h4 align="center">
+<a href="https://tinyurl.com/wel4alo">WhatsApp</a>
+</h4>
