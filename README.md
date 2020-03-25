@@ -37,11 +37,12 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 <p align="center">
 <h5> Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a></h5>
 </p>
+
 <p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2Fcoronaupdate" alt="Twitter"> <br>
 </p>
 
-#### Informasi:
+### Informasi:
 ```text
 Nama        : Torattacker
 Versi       : 4.5 (Update: 23 Februari 2020, 9:30 AM)
@@ -60,18 +61,18 @@ NB          : Manusia gax ada yang sempurna
 
 [ Gunakan tool ini dengan bijak ]
 ```
-#### Cara Menginstall:
+### Installisasi:
 ```text
 git clone https://github.com/stepbystepexe/Torattacker
 cd Torattacker
 ls
 bash torattacker.sh
 ```
-#### Kontak:
+### Kontak:
 
-<h5> <a href="d_q16x@outlook.co.id">Email d_q16x@outlook.co.id</a>
+<h5> <a href="d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
 </h5>
-<h5> <a href="https://tinyurl.com/wel4alo">WhatsApp https://tinyurl.com/wel4alo</a>
+<h5> <a href="https://tinyurl.com/wel4alo">WhatsApp: https://tinyurl.com/wel4alo</a>
 </h5>
 
 #### LiberaPay:
