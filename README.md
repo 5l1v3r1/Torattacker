@@ -1,11 +1,10 @@
-<h1 align="center">Torattacker
-</h1>
+<h1 align="center">Torattacker</h1>
 <h5 align="center">Tor adalah server yang membuat pengguna menjadi anonim dalam internet.
 Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.</h5>
 
 <p align="center">
   <a href="https://shell.org/">
-    <img src="https://img.shields.io/badge/Shell-1.x-success.svg">
+    <img src="https://img.shields.io/badge/Language-Shell-success.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Torattacker/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL%203-red.svg">
