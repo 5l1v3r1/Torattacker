@@ -65,7 +65,7 @@ NB          : Manusia gax ada yang sempurna
 ```
 
 ### Fitur:
-<h5>Attack dengan jaringan Tor</h5>
+<h5>Tor Project</h5>
 
 ### Installisasi:
 ```text
