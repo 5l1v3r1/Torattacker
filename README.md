@@ -65,7 +65,7 @@ NB          : Manusia gax ada yang sempurna
 ```
 
 ### Fitur:
-+ Jaringan Tor
++ tor.project
 
 ### Installisasi:
 ```text
