@@ -34,7 +34,7 @@ Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="500">
+  <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="300">
 </a></p>
 <h4 align="center">Tampilan</h4>
 
