@@ -12,16 +12,16 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
   <a href="https://github.com/stepbystepexe/Torattacker/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/pulls">
+  <a href="https://github.com/stepbystepexe/Torattacker/pulls">
     <img src="https://img.shields.io/badge/Pull%20Request-0-important.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/projects">
+  <a href="https://github.com/stepbystepexe/Torattacker/projects">
     <img src="https://img.shields.io/badge/Projects-None-blueviolet.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/issues">
+  <a href="https://github.com/stepbystepexe/Torattacker/issues">
     <img src="https://img.shields.io/badge/Issues-1-yellowgreen.svg">
   </a>
-  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/security/advisories">
+  <a href="https://github.com/stepbystepexe/Torattacker/security/advisories">
     <img src="https://img.shields.io/badge/Security-Patch-ff69b4.svg">
   </a>
   <a href="https://opensource.org">
