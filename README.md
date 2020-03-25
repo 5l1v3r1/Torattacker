@@ -38,9 +38,6 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
-<p align="center"><a href="https://github.com/stepbystepexe/Torattacker" target="_blank">The Onion Router Project</a></p>
- Cara Menginstall:
-
 <h4 align="center">Instalisasi</h4>
 
 + Install via git
