@@ -65,7 +65,7 @@ NB          : Manusia gax ada yang sempurna
 ```
 
 ### Fitur:
-+ tor.project
+<h6> + tor.project</h6>
 
 ### Installisasi:
 ```text
