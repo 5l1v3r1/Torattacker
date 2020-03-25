@@ -29,13 +29,27 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
   </a>
 </p>
 
-<p align="center">
-Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
-</p>
-
+<h4 align="center">Tampilan</h4>
 <p align="center">
   <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="300">
 </a></p>
-<h4 align="center">Tampilan</h4>
+
+Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
+</p>
 
 <p align="center"><a href="https://github.com/stepbystepexe/Torattacker" target="_blank">The Onion Router Project</a></p>
+
+#### Cara Menginstall:
+```
+git clone https://github.com/stepbystepexe/Stepbystep
+cd Stepbystep
+ls
+bash stepbystep.sh
+```
+#### Kontak:
++ Email d_q16x@outlook.co.id
++ WhatsApp https://tinyurl.com/wel4alo
+#### Paypal:
++ Onclick https://bit.ly/3dcEQcN
+### LiberaPay:
+<noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
