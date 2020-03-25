@@ -51,7 +51,7 @@ bash stepbystep.sh
 + Email d_q16x@outlook.co.id
 
 <p align="center">
-  <img src="https://www.flaticon.com/free-icon/whatsapp_733585?term=email&page=1&position=12" width="10">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="10">
 </a></p>
 
 #### Paypal:
