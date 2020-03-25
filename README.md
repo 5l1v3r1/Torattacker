@@ -14,7 +14,7 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-yellow.svg">
+    <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
   </a>
 </p>
 
