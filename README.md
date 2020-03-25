@@ -3,7 +3,7 @@
 <h5 align="center">Tor adalah server yang membuat pengguna menjadi anonim dalam internet.
 Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.</h5>
 
-align="center">
+<p align="center">
   <a href="https://shell.org/">
     <img src="https://img.shields.io/badge/Shell-1.x-success.svg">
   </a>
@@ -14,7 +14,7 @@ align="center">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <a href="https://opensource.org">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4.svg">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-yellow.svg">
   </a>
 </p>
 
