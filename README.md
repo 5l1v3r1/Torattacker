@@ -36,6 +36,8 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 
 <p align="center">
 <h5> Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a></h5>
+</p>
+<p align="center">
  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2Fcoronaupdate" alt="Twitter"> <br>
 </p>
 
