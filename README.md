@@ -16,7 +16,7 @@ Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 <h4 align="center">SocialFish</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stepbystepexe/Torattacker/master/content/Skrinsut.png" width="200"/>
+  <img src="https://github.com/stepbystepexe/PhisingGo/blob/master/Skrinsut.png" width="200"/>
 </a></p>
 
 <p align="center"><a href="https://kawalcorona.com" target="_blank">Coronavirus COVID-19 Live Data</a></p>
