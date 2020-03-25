@@ -35,10 +35,9 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 </a></p>
 
 <p align="center">
-Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
+<h5> Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a></h5>
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2Fcoronaupdate" alt="Twitter"> <br>
 </p>
-
-
 
 #### Informasi:
 ```text
@@ -73,7 +72,5 @@ bash torattacker.sh
 <h5> <a href="https://tinyurl.com/wel4alo">WhatsApp https://tinyurl.com/wel4alo</a>
 </h5>
 
-#### Paypal:
-+ Onclick https://bit.ly/3dcEQcN
 #### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
