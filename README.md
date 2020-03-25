@@ -34,6 +34,7 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
   <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="300">
 </a></p>
 
+<p align="center">
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
