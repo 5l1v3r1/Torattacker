@@ -31,11 +31,11 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 
 <p align="center">
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
-<h4 align="center">Tampilan</h4>
 </p>
 
 <p align="center">
   <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="200"/>
-</a></p></h4>
+</a></p>
+<h4 align="center">Tampilan</h4>
 
 <p align="center"><a href="https://github.com/stepbystepexe/Torattacker" target="_blank">The Onion Router Project</a></p>
