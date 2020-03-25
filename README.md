@@ -39,20 +39,22 @@ Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
 <p align="center"><a href="https://github.com/stepbystepexe/Torattacker" target="_blank">The Onion Router Project</a></p>
+ Cara Menginstall:
 
-#### Cara Menginstall:
-```
+<h4 align="center">Instalisasi</h4>
++ Install via git
+```text
 git clone https://github.com/stepbystepexe/Stepbystep
-cd Stepbystep
-ls
-bash stepbystep.sh
 ```
-#### Kontak:
-+ Email d_q16x@outlook.co.id
-
-<a href="https://opensource.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" target="WhatsApp">
-</a>
++ Install via wget
+```text
+wget -o https://github.com/stepbystepexe/Stepbystep
+```
+<p align="center">
+<h4 align="center">Kontak</h4>
+<p align="center">
+  <a herf"Email d_q16x@outlook.co.id">
+</p></a>
 
 #### Paypal:
 + Onclick https://bit.ly/3dcEQcN
