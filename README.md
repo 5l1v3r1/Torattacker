@@ -51,7 +51,7 @@ bash stepbystep.sh
 + Email d_q16x@outlook.co.id
 
 <a href="https://opensource.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" target="WhatsApp">
 </a>
 
 #### Paypal:
