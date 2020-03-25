@@ -1,5 +1,5 @@
-<H1 align="center">Torattacker
-</H1>
+<h1 align="center">Torattacker
+</h1>
 <H4 align="center">Tor adalah server yang membuat pengguna menjadi anonim dalam internet.
 Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.</H4>
 
@@ -15,9 +15,9 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
 </p>
 
-<p align="center">
+<h4 align="center">Tampilan
   <img src="https://github.com/stepbystepexe/Torattacker/blob/master/Skrinsut.png" width="200"/>
-</a></p>
+</a></p></h4>
 <h4 align="center">Tampilan</h4>
 
 <p align="center"><a href="https://github.com/stepbystepexe/Torattacker" target="_blank">The Onion Router Project</a></p>
