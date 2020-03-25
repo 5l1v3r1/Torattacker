@@ -68,7 +68,8 @@ NB          : Manusia gax ada yang sempurna
 git clone https://github.com/stepbystepexe/Torattacker
 cd Torattacker
 ls
-bash torattacker.sh
+chmod +x
+./torattacker.sh
 ```
 ### Kontak:
 
@@ -79,3 +80,4 @@ bash torattacker.sh
 
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+>**Created by Stepbystep
