@@ -3,12 +3,19 @@
 <h5 align="center">Tor adalah server yang membuat pengguna menjadi anonim dalam internet.
 Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.</h5>
 
-<p align="center">
- <img src="https://img.shields.io/github/issues/stepbystepexe/Torattacker" alt="Issues">
- <img src="https://img.shields.io/github/forks/stepbystepexe/Torattacker" alt="Forks">
- <img src="https://img.shields.io/github/stars/stepbystepexe/Torattacker" alt="Star">
- <img src="https://img.shields.io/github/license/stepbystepexe/Torattacker" alt="License"> <br>
- <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2Fcoronaupdate" alt="Twitter"> <br>
+align="center">
+  <a href="https://shell.org/">
+    <img src="https://img.shields.io/badge/Shell-1.x-success.svg">
+  </a>
+  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL%203-red.svg">
+  </a>
+  <a href="https://github.com/stepbystepexe/Torattacker/releases">
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
+  </a>
+    <a href="https://opensource.org">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4.svg">
+  </a>
 </p>
 
 <p align="center">
