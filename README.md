@@ -12,9 +12,22 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
   <a href="https://github.com/stepbystepexe/Torattacker/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://opensource.org">
+  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/pulls">
+    <img src="https://img.shields.io/badge/Pull%20Request-0-important.svg">
+  </a>
+  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/projects">
+    <img src="https://img.shields.io/badge/Projects-None-blueviolet.svg">
+  </a>
+  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/issues">
+    <img src="https://img.shields.io/badge/Issues-1-9cf.svg">
+  </a>
+  <a href="https://github.com/stepbystepexe/Torattacker/blob/master/security/advisories">
+    <img src="https://img.shields.io/badge/Security-None-ff69b4.svg">
+  </a>
+  <a href="https://opensource.org">
     <img src="https://img.shields.io/badge/Open%20Source-●-yellow.svg">
   </a>
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2stepbystepexe%2FTorattacker" alt="Twitter"> <br>
 </p>
 
 <p align="center">
