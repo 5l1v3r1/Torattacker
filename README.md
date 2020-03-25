@@ -49,7 +49,11 @@ bash stepbystep.sh
 ```
 #### Kontak:
 + Email d_q16x@outlook.co.id
-+ WhatsApp https://tinyurl.com/wel4alo
+
+<p align="center">
+  <img src="https://www.flaticon.com/free-icon/whatsapp_733585?term=email&page=1&position=12" width="10">
+</a></p>
+
 #### Paypal:
 + Onclick https://bit.ly/3dcEQcN
 ### LiberaPay:
