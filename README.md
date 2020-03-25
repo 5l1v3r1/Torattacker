@@ -41,7 +41,7 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2Fcoronaupdate" alt="Twitter"> <br>
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Stepbystepexe%2FTorattacker" alt="Twitter"> <br>
 </p>
 
 ### Informasi:
@@ -72,7 +72,7 @@ bash torattacker.sh
 ```
 ### Kontak:
 
-<h5> <a href="d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
+<h5> <a href="http://d_q16x@outlook.co.id">Email: d_q16x@outlook.co.id</a>
 </h5>
 <h5> <a href="https://tinyurl.com/wel4alo">WhatsApp: https://tinyurl.com/wel4alo</a>
 </h5>
