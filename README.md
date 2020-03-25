@@ -3,7 +3,7 @@
 Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber (resource) yang dimiliki oleh komputer tersebut.</h5>
 
 <p align="center">
-  <a href="https://shell.org/">
+  <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/Language-Shell-success.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Torattacker/blob/master/LICENSE">
@@ -63,6 +63,10 @@ NB          : Manusia gax ada yang sempurna
 
 [ Gunakan tool ini dengan bijak ]
 ```
+
+### Fitur:
++ Jaringan Tor
+
 ### Installisasi:
 ```text
 git clone https://github.com/stepbystepexe/Torattacker
@@ -80,4 +84,5 @@ chmod +x
 
 ### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
->**Created by Stepbystep
+
+>**Created by Stepbystep**
