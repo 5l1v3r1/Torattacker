@@ -42,6 +42,7 @@ Made with ❤️ by <a href="https://github.com/stepbystepexe">Nedi Senja</a>
  Cara Menginstall:
 
 <h4 align="center">Instalisasi</h4>
+
 + Install via git
 ```text
 git clone https://github.com/stepbystepexe/Stepbystep
@@ -50,13 +51,3 @@ git clone https://github.com/stepbystepexe/Stepbystep
 ```text
 wget -o https://github.com/stepbystepexe/Stepbystep
 ```
-<p align="center">
-<h4 align="center">Kontak</h4>
-<p align="center">
-  <a herf"Email d_q16x@outlook.co.id">
-</p></a>
-
-#### Paypal:
-+ Onclick https://bit.ly/3dcEQcN
-### LiberaPay:
-<noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
