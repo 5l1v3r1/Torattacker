@@ -47,8 +47,8 @@ Attack adalah jenis serangan terhadap sebuah komputer atau server di dalam jarin
 ### Informasi:
 ```text
 Nama        : Torattacker
-Versi       : 1.0 (Update: 23 Februari 2020, 9:30 AM)
-Tanggal     : 12 Agustus 2019
+Versi       : 1.0 (Update: 10 Februari 2020, 1:01 AM)
+Tanggal     : 01 Agustus 2019
 Author      : Nedi Senja
 Tujuan      : Ddos nenggunakan jaringan TOR
               atau jaringan bawang
