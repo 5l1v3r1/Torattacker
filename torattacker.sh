@@ -248,8 +248,8 @@ printf "\e[0;100;77;1m[         Tor Attacker, My Github: @stepbyatepexe        ]
 toilet -f smslant 'Tor'
 printf "
 Nama        : Torattacker
-Versi       : 4.5 (Update: 23 Februari 2020, 9:30 AM)
-Tanggal     : 12 Agustus 2019
+Versi       : 1.0 (Update: 10 Februari 2020, 1:01 AM)
+Tanggal     : 01 Agustus 2019
 Author      : Nedi Senja
 Tujuan      : Ddos nenggunakan jaringan TOR
               atau jaringan bawang
