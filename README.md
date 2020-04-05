@@ -65,7 +65,7 @@ NB          : Manusia gax ada yang sempurna
 ```
 
 ### Fitur:
-+ theonionrouter.roject
++ theonionrouter.project
 
 ### Installisasi:
 ```text
